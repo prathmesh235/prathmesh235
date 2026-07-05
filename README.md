@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **prathmeshpanmand23@gmail.com** For Collaboration/Project 
 - 🌱 **I’m currently learning:** BCA (Science)
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** prathmeshpanmand23@gmail.com
-- 😄 **Pronouns:** Prathmesh 
+- 😄 **Pronouns:** PP 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathmesh-panmand-aa696b316/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmeshpanmand23@gmail.com) 
