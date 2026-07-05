@@ -1,9 +1,7 @@
 # 💫 Hi 👋, I'm Prathmesh Panmand
 **A passionate Software Engineer**
 
-Email Me 👉 ✉️ **prathmeshpanmand23@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Java Development
+- 🔭 **I’m currently working on:** Java Backend Development.
 - 🌱 **I’m currently learning:** BCA (Science)
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** prathmeshpanmand23@gmail.com
@@ -28,4 +26,4 @@ Email Me 👉 ✉️ **prathmeshpanmand23@gmail.com** For Collaboration/Project 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-⭐ Thanks for visiting my profile! Happy Coding! 🚀
+**⭐ Thanks for visiting my profile! Happy Coding! 🚀**
