@@ -1,8 +1,7 @@
 # 💫 Hi 👋, I'm Prathmesh Panmand
 **A passionate Software Engineer**
 
-- 🔭 **I’m currently working on:** Java Backend Development.
-- 🌱 **I’m currently learning:** BCA (Science)
+- 🌱 **I’m currently learning:** Java Backend Development.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** prathmeshpanmand23@gmail.com
 - 😄 **Pronouns:** PP 
