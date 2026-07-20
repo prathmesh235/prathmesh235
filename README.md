@@ -2,7 +2,7 @@
 **A passionate Software Engineer**
 
 - 🌱 **I’m currently learning:** Java Backend Development.
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 💬 **Ask me about:** Collaboration, Tech Suppor
 - 📫 **How to reach me:** prathmeshpanmand23@gmail.com
 - 😄 **Pronouns:** PP 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
