@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Prathmesh Panmand
-**A passionate Java Developer**
+**A Passionate Java Developer**
 
 **🎓 BCA-(Science) Student.**
 
