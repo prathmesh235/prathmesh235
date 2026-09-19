@@ -69,7 +69,21 @@
 </p>
 
 ---
+## 🐍 Contribution Journey
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/prathmesh235/prathmesh235/output/github-contribution-grid-snake.svg"
+    width="90%"
+    alt="Prathmesh Contribution Snake"
+  />
+</p>
+
+<p align="center">
+  <b>🐍 PRATHMESH • Contribution Journey 🐍</b>
+</p>
+
+---
 ## 🚀 Current Learning & Focus
 
 <p align="center">
