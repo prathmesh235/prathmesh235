@@ -54,6 +54,13 @@
 </p>
 
 ---
+## 🎯 Career Goal
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=40&lines=Become+a+Java+Developer+%F0%9F%92%BB;Build+Scalable+Software+%F0%9F%9A%80;Strengthen+Backend+Development+Skills+%F0%9F%8C%B1;Keep+Learning+and+Improving+Every+Day+%F0%9F%93%9A" alt="Career Goal" />
+</p>
+
+---
 
 ## 🎓 Education
 
@@ -172,14 +179,6 @@ A full-stack hospital management project focused on managing hospital-related op
 | **Problem Solving** | Data Structures & Algorithms |
 | **Tools** | Git, GitHub, Postman, VS Code, Canva |
 
-</p>
-
----
-
-## 🎯 Career Goal
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=40&lines=Become+a+Java+Developer+%F0%9F%92%BB;Build+Scalable+Software+%F0%9F%9A%80;Strengthen+Backend+Development+Skills+%F0%9F%8C%B1;Keep+Learning+and+Improving+Every+Day+%F0%9F%93%9A" alt="Career Goal" />
 </p>
 
 ---
