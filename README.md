@@ -29,7 +29,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <b>Hi, I'm Prathmesh Panmand</b>, a passionate <b>BCA (Science) student</b> and aspiring
+  <b>Hi, I'm Prathmesh Panmand</b>, a passionate <b>BCA(Science) student</b> and aspiring
   <b>Java Developer</b> interested in backend development and software engineering.
 </p>
 
@@ -165,19 +165,6 @@ A full-stack hospital management project focused on managing hospital-related op
 | **Problem Solving** | Data Structures & Algorithms |
 | **Tools** | Git, GitHub, Postman, VS Code, Canva |
 
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathmesh235&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh235&layout=compact&theme=default&hide_border=false&include_all_commits=true&count_private=false" width="40%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh235&theme=default&hide_border=false" width="55%" alt="GitHub Streak" />
 </p>
 
 ---
