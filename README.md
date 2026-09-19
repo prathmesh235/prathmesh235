@@ -9,11 +9,11 @@
 <h1>Prathmesh Panmand</h1>
 
 <p>
-  <b>Java Developer | BCA Student | Backend Development Enthusiast</b>
+<b>Java Developer | BCA Student | Backend Development Enthusiast</b>
 </p>
 
 <p>
-  Building practical software solutions with Java, Spring Boot, REST APIs and databases.
+Turning ideas into practical software solutions, one commit at a time 💻
 </p>
 
 </div>
@@ -24,7 +24,7 @@
 
 Hi, I'm **Prathmesh Panmand**, a BCA student and aspiring **Java Backend Developer**.
 
-I am focused on building practical applications and strengthening my backend development skills.
+I am interested in backend development, software engineering and building practical applications. I am continuously improving my programming, problem-solving and development skills through projects and coding practice.
 
 ### 🎯 Current Focus
 
@@ -32,7 +32,7 @@ I am focused on building practical applications and strengthening my backend dev
 - 🌱 Spring Boot & Backend Development
 - 🔗 REST API Development
 - 🗄️ MySQL & PostgreSQL
-- 🔌 JDBC & Database Integration
+- 🔌 JDBC & Database Connectivity
 - 🧠 Data Structures & Algorithms
 - 🤖 AI Integration with Ollama
 - 🧪 API Testing with Postman
@@ -44,11 +44,11 @@ I am focused on building practical applications and strengthening my backend dev
 
 ### 🏥 AI-Powered Smart Hospital Management System
 
-A full-stack hospital management system designed to manage hospital operations through separate **Admin, Doctor and Patient** roles.
+A full-stack hospital management system built to manage hospital operations through separate **Admin, Doctor and Patient** roles.
 
-### ✨ Key Features
+### Key Features
 
-- 🔐 Role-based Login & Application Flow
+- 🔐 Role-based Login
 - 👤 Patient Management
 - 👨‍⚕️ Doctor Management
 - 📅 Appointment Management
@@ -58,17 +58,17 @@ A full-stack hospital management system designed to manage hospital operations t
 - 👨‍💼 Admin Dashboard
 - 🤖 AI Health Assistant
 - 🧠 Ollama + Llama 3.2 Integration
-- 🔗 REST API-based Backend
+- 🔗 REST APIs
 - 🗄️ MySQL Database
 - ⚛️ React Frontend
 
-### 🛠️ Technologies
+### Technologies
 
-`Java` `Spring Boot` `React` `MySQL` `REST API` `JDBC` `Ollama` `Llama 3.2` `Postman` `Git` `GitHub`
+`Java` `Spring Boot` `React` `MySQL` `JDBC` `REST API` `Ollama` `Llama 3.2` `Postman` `Git` `GitHub`
 
 <p align="center">
   <a href="https://github.com/AI-Hospital-Team/Ai-Powered-Smart-Hospital-Management-System">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Smart Hospital Project" />
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Smart Hospital" />
   </a>
 </p>
 
@@ -94,11 +94,11 @@ View Project →
 
 <td width="50%">
 
-### ☕ Java Practice & Programs
+### ☕ Java Practice
 
-Collection of Java programs and practice implementations covering programming fundamentals, OOP and problem solving.
+Java programming practice repository containing programs focused on Java fundamentals, OOP and problem solving.
 
-**Java · OOP · DSA**
+**Java · OOP · Programming**
 
 <a href="https://github.com/prathmesh235/JAVA">
 View Repository →
@@ -112,7 +112,7 @@ View Repository →
 
 ### 🧠 Quiz App
 
-A simple interactive quiz application built with HTML, CSS and JavaScript with score tracking and answer validation.
+A simple interactive quiz application built using HTML, CSS and JavaScript with score tracking.
 
 **HTML · CSS · JavaScript**
 
@@ -126,7 +126,7 @@ View Project →
 
 ### 👤 Profile Project
 
-A frontend project created to practice web design, layout and responsive UI development.
+A frontend project created to practice web design, layout and responsive user interfaces.
 
 **HTML · CSS · JavaScript**
 
@@ -142,7 +142,7 @@ View Project →
 
 ## 🛠️ Technical Skills
 
-### ☕ Programming
+### ☕ Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -151,7 +151,7 @@ View Project →
 ### 🌱 Backend Development
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-2563EB?style=for-the-badge)
 ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge)
 
 ### 🌐 Frontend
@@ -165,10 +165,10 @@ View Project →
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 AI & Integration
+### 🤖 AI Integration
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama%203.2-0467DF?style=for-the-badge)
+![Llama 3.2](https://img.shields.io/badge/Llama%203.2-0467DF?style=for-the-badge)
 
 ### 🔧 Tools
 
@@ -181,30 +181,14 @@ View Project →
 
 ## 🧠 Problem Solving
 
-I am continuously improving my problem-solving skills through:
+Currently improving my problem-solving skills through:
 
-- Data Structures
-- Algorithms
+- Data Structures & Algorithms
 - Java programming
 - Object-Oriented Programming
 - Coding practice
 - Logical problem solving
-
----
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/prathmesh235/prathmesh235/output/github-contribution-grid-snake.svg"
-    width="90%"
-    alt="Prathmesh Contribution Snake"
-  />
-</p>
-
-<p align="center">
-  <b>🐍 Keep Coding • Keep Learning • Keep Building 🚀</b>
-</p>
+- Real-world project development
 
 ---
 
@@ -216,58 +200,23 @@ I am continuously improving my problem-solving skills through:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Development Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathmesh235&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh235&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh235&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
-</p>
-
----
-
-## 🎯 Career Goal
-
-> **Become a strong Java Backend Developer and build reliable, scalable and practical software applications.**
-
-My goal is to continuously improve my skills in:
-
-`Java` → `Spring Boot` → `REST APIs` → `Databases` → `DSA` → `AI Integration`
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/prathmesh235">
-  <img src="https://img.shields.io/badge/GitHub-Prathmesh235-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/in/prathmesh-panmand-aa696b316/">
-  <img src="https://img.shields.io/badge/LinkedIn-Prathmesh%20Panmand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:prathmeshpanmand23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-prathmeshpanmand23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <b>⚡ Code • Learn • Build • Improve ⚡</b>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
-
-<p align="center">
-  <sub>Prathmesh Panmand · Java Developer · BCA Student</sub>
-</p>
+```text
+Java
+  ↓
+OOP
+  ↓
+Data Structures & Algorithms
+  ↓
+JDBC
+  ↓
+MySQL
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+AI Integration
+  ↓
+Real-World Projects
