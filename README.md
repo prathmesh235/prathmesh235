@@ -50,7 +50,15 @@
 ## 🐍 Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake Animation" />
+  <img
+    src="https://raw.githubusercontent.com/prathmesh235/prathmesh235/output/github-contribution-grid-snake.svg"
+    width="90%"
+    alt="Prathmesh Contribution Snake"
+  />
+</p>
+
+<p align="center">
+  <b>🐍 PRATHMESH • Contribution Journey 🐍</b>
 </p>
 
 ---
@@ -58,18 +66,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=40&lines=Become+a+Java+Developer+%F0%9F%92%BB;Build+Scalable+Software+%F0%9F%9A%80;Strengthen+Backend+Development+Skills+%F0%9F%8C%B1;Keep+Learning+and+Improving+Every+Day+%F0%9F%93%9A" alt="Career Goal" />
-</p>
-
----
-
-## 🎓 Education
-
-<p align="center">
-
-| 🎓 Degree | 📚 Field | 📌 Status |
-|:---:|:---:|:---:|
-| **BCA (Science)** | Computer Applications | **Student** |
-
 </p>
 
 ---
@@ -96,10 +92,62 @@ Git • GitHub • Postman • VS Code
 </p>
 
 ---
+## 🛠️ Tech Stack
+
+### ☕ Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp&theme=light" alt="Programming Languages" />
+</p>
+
+**Core Skills:** Java | C | C++ | Data Structures & Algorithms
+
+### 🌐 Web Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=light" alt="Web Technologies" />
+</p>
+
+**Web Development:** HTML | CSS | React
+
+### 🌱 Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Backend Development" />
+</p>
+
+**Backend:** Java | Spring Boot | REST APIs | JDBC
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" alt="Databases" />
+</p>
+
+**Databases:** MySQL | PostgreSQL
+
+### 🤖 AI & Integration
+
+**AI Tools:** Ollama | AI Integration
+
+### 🔧 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,canva&theme=light" alt="Tools & Platforms" />
+</p>
+
+**Tools:** Git | GitHub | Postman | VS Code | Canva
+
+### 🧪 API & Development Skills
+
+**API Development & Testing:** REST API | Postman API Testing | JDBC
+
+---
+
 
 ## 💻 Featured Project
 
-### 🏥 AI-Powered Smart Hospital Management System
+### 🏥 AI Smart Hospital Management System
 
 A full-stack hospital management project focused on managing hospital-related operations through a web application.
 
@@ -128,57 +176,6 @@ A full-stack hospital management project focused on managing hospital-related op
   <a href="https://github.com/AI-Hospital-Team/Ai-Powered-Smart-Hospital-Management-System">
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### ☕ Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp&theme=light" alt="Programming Languages" />
-</p>
-
-### 🌐 Web Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react&theme=light" alt="Web Technologies" />
-</p>
-
-### 🌱 Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring Boot" />
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" alt="Databases" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,canva&theme=light" alt="Tools" />
-</p>
-
----
-
-## 📚 Skills
-
-<p align="center">
-
-| Category | Skills |
-|:---|:---|
-| **Programming** | Java, C, C++ |
-| **Backend** | Java, Spring Boot, REST APIs |
-| **Frontend** | HTML, CSS, React |
-| **Database** | MySQL, PostgreSQL |
-| **Problem Solving** | Data Structures & Algorithms |
-| **Tools** | Git, GitHub, Postman, VS Code, Canva |
-
 </p>
 
 ---
