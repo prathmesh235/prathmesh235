@@ -47,6 +47,13 @@
 </p>
 
 ---
+## 🐍 Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake Animation" />
+</p>
+
+---
 
 ## 🎓 Education
 
@@ -165,14 +172,6 @@ A full-stack hospital management project focused on managing hospital-related op
 | **Problem Solving** | Data Structures & Algorithms |
 | **Tools** | Git, GitHub, Postman, VS Code, Canva |
 
-</p>
-
----
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake Animation" />
 </p>
 
 ---
