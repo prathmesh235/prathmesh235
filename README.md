@@ -1,69 +1,29 @@
-<!-- ========================================================
-  ⚙️ GitHub Profile README — Java Backend Developer
-  Prathmesh Panmand
-  ======================================================== -->
+# 💫 Hi 👋, I'm Prathmesh Panmand
+**A Passionate Java Developer**
 
-# ⚙️ Prathmesh Panmand — Java Developer
+**🎓 BCA-(Science) Student.**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+JDBC;MySQL+%7C+PostgreSQL+%7C+Database+Integration;Data+Structures+%26+Algorithms;AI+Integration+with+Ollama" alt="Typing SVG" />
-</p>
+- 🌱 **I’m currently learning:** Java, Spring Boot, My-SQL & DSA
+- 📫 **How to reach me:** prathmeshpanmand23@gmail.com
+- 😄 **Pronouns:** PP 
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🎯 **Goal:** To become a Java Developer and build scalable Software.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathmesh-panmand-aa696b316/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmeshpanmand23@gmail.com) 
+<!-- Snake Game Repo View -->
 
-<p align="center">
-  <a href="https://github.com/prathmesh235">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/prathmesh-panmand-aa696b316/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:prathmeshpanmand23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathmesh235&color=10B981&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=prathmesh235&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=prathmesh235&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
 
-## 👨‍💻 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I am **Prathmesh Panmand**, a BCA student and aspiring **Java Backend Developer** focused on building practical software applications.
-
-I enjoy working with Java, backend technologies, databases and APIs while continuously improving my problem-solving and software development skills.
-
-### 🎯 Current Focus
-
-- ☕ **Java & Object-Oriented Programming**
-- 🌱 **Spring Boot & Backend Development**
-- 🔗 **REST API Development**
-- 🗄️ **MySQL & PostgreSQL**
-- 🔌 **JDBC & Database Connectivity**
-- 🧠 **Data Structures & Algorithms**
-- 🤖 **AI Integration with Ollama**
-- 🧪 **API Testing with Postman**
-- 🔧 **Git & GitHub**
-
----
-
-## 🏗️ Backend Development Approach
-
-My current development focus is on understanding how backend applications are designed, connected to databases, exposed through APIs and integrated with other technologies.
-
-```text
-Java
-  ↓
-OOP & Problem Solving
-  ↓
-JDBC
-  ↓
-MySQL / PostgreSQL
-  ↓
-Spring Boot
-  ↓
-REST APIs
-  ↓
-React Frontend
-  ↓
-AI Integration
+**⭐ Thanks for visiting my profile! Happy Coding! 🚀**
