@@ -1,196 +1,242 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Prathmesh%20Panmand&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20BCA%20Student&descAlignY=58&descSize=18" width="100%" />
-</p>
+# 👋 Prathmesh Panmand
 
 <p align="center">
-  <a href="https://github.com/prathmesh235">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Hi%20there!%20I'm%20Prathmesh%20Panmand%20%F0%9F%91%8B;Java%20Developer%20%7C%20BCA%20Student%20%F0%9F%8E%93;Learning%20Spring%20Boot%20%26%20Backend%20Development%20%F0%9F%92%BB;Building%20Practical%20Software%20Solutions%20%F0%9F%9A%80;DSA%20%7C%20Java%20%7C%20MySQL%20%7C%20Spring%20Boot" alt="Typing SVG" />
-  </a>
+  <img src="https://www.gitskins.com/api/section/hero?username=prathmesh235&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298199292%3Fu%3D541d68ef6aac7baf0e82339751f71a304978a7a5%26v%3D4" alt="Prathmesh Panmand hero visual" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/prathmesh235">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/prathmesh-panmand-aa696b316/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:prathmeshpanmand23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<div align="center">
+
+<h1>Prathmesh Panmand</h1>
+
+<p>
+  <b>Java Developer | BCA Student | Backend Development Enthusiast</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathmesh235&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile Views" />
+<p>
+  Building practical software solutions with Java, Spring Boot, REST APIs and databases.
 </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <b>Hi, I'm Prathmesh Panmand</b>, a passionate <b>BCA(Science) student</b> and aspiring
-  <b>Java Developer</b> interested in backend development and software engineering.
-</p>
+Hi, I'm **Prathmesh Panmand**, a BCA student and aspiring **Java Backend Developer**.
 
-<p align="center">
-  I am currently focusing on <b>Java, Spring Boot, MySQL and Data Structures & Algorithms</b>.
-  I enjoy learning how software systems work and building practical applications using
-  programming and backend technologies.
-</p>
+I am focused on building practical applications and strengthening my backend development skills.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Java%20Backend-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Learning-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/DSA-Practice-2563EB?style=flat-square&logo=leetcode&logoColor=white" alt="DSA" />
-</p>
+### 🎯 Current Focus
 
----
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/prathmesh235/prathmesh235/output/github-contribution-grid-snake.svg"
-    width="90%"
-    alt="Prathmesh Contribution Snake"
-  />
-</p>
-
-<p align="center">
-  <b>🐍 PRATHMESH • Contribution Journey 🐍</b>
-</p>
-
----
-## 🎯 Career Goal
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=40&lines=Become+a+Java+Developer+%F0%9F%92%BB;Build+Scalable+Software+%F0%9F%9A%80;Strengthen+Backend+Development+Skills+%F0%9F%8C%B1;Keep+Learning+and+Improving+Every+Day+%F0%9F%93%9A" alt="Career Goal" />
-</p>
-
----
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/prathmesh235/prathmesh235/output/github-contribution-grid-snake.svg"
-    width="90%"
-    alt="Prathmesh Contribution Snake"
-  />
-</p>
-
-<p align="center">
-  <b>🐍 PRATHMESH • Contribution Journey 🐍</b>
-</p>
-
----
-## 🚀 Current Learning & Focus
-
-<p align="center">
-
-**☕ Java**  
-Core Java • OOP • Collections • Exception Handling
-
-**🌱 Spring Boot**  
-Backend Development • REST APIs • Application Development
-
-**🗄️ Databases**  
-MySQL • PostgreSQL • Database Fundamentals
-
-**🧠 DSA**  
-Data Structures • Algorithms • Problem Solving
-
-**🔧 Development Tools**  
-Git • GitHub • Postman • VS Code
-
-</p>
-
----
-## 🛠️ Tech Stack
-
-### ☕ Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp&theme=light" alt="Programming Languages" />
-</p>
-
-**Core Skills:** Java | C | C++ | Data Structures & Algorithms
-
-### 🌐 Web Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react&theme=light" alt="Web Technologies" />
-</p>
-
-**Web Development:** HTML | CSS | React
-
-### 🌱 Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Backend Development" />
-</p>
-
-**Backend:** Java | Spring Boot | REST APIs | JDBC
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" alt="Databases" />
-</p>
-
-**Databases:** MySQL | PostgreSQL
-
-### 🤖 AI & Integration
-
-**AI Tools:** Ollama | AI Integration
-
-### 🔧 Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,canva&theme=light" alt="Tools & Platforms" />
-</p>
-
-**Tools:** Git | GitHub | Postman | VS Code | Canva
-
-### 🧪 API & Development Skills
-
-**API Development & Testing:** REST API | Postman API Testing | JDBC
+- ☕ Java & Object-Oriented Programming
+- 🌱 Spring Boot & Backend Development
+- 🔗 REST API Development
+- 🗄️ MySQL & PostgreSQL
+- 🔌 JDBC & Database Integration
+- 🧠 Data Structures & Algorithms
+- 🤖 AI Integration with Ollama
+- 🧪 API Testing with Postman
+- 🔧 Git & GitHub
 
 ---
 
+## 🚀 Featured Project
 
-## 💻 Featured Project
+### 🏥 AI-Powered Smart Hospital Management System
 
-### 🏥 AI Smart Hospital Management System
+A full-stack hospital management system designed to manage hospital operations through separate **Admin, Doctor and Patient** roles.
 
-A full-stack hospital management project focused on managing hospital-related operations through a web application.
+### ✨ Key Features
 
-**Technology Focus:**
-
-- Java
-- Spring Boot
-- React
-- MySQL
-- REST APIs
-- Ollama / Llama 3.2
-- Git & GitHub
-
-**Main Areas:**
-
+- 🔐 Role-based Login & Application Flow
 - 👤 Patient Management
 - 👨‍⚕️ Doctor Management
 - 📅 Appointment Management
-- 🧾 Billing Management
 - 💊 Prescription Management
 - 📋 Medical Records
+- 🧾 Billing Management
+- 👨‍💼 Admin Dashboard
 - 🤖 AI Health Assistant
-- 🔐 Role-based application flow
+- 🧠 Ollama + Llama 3.2 Integration
+- 🔗 REST API-based Backend
+- 🗄️ MySQL Database
+- ⚛️ React Frontend
+
+### 🛠️ Technologies
+
+`Java` `Spring Boot` `React` `MySQL` `REST API` `JDBC` `Ollama` `Llama 3.2` `Postman` `Git` `GitHub`
 
 <p align="center">
   <a href="https://github.com/AI-Hospital-Team/Ai-Powered-Smart-Hospital-Management-System">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Smart Hospital Project" />
   </a>
 </p>
+
+---
+
+## 💻 Selected Work
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 AI Smart Hospital
+
+Full-stack hospital management system with Admin, Doctor and Patient modules, REST APIs, MySQL and AI Health Assistant.
+
+**Java · Spring Boot · React · MySQL · Ollama**
+
+<a href="https://github.com/AI-Hospital-Team/Ai-Powered-Smart-Hospital-Management-System">
+View Project →
+</a>
+
+</td>
+
+<td width="50%">
+
+### ☕ Java Practice & Programs
+
+Collection of Java programs and practice implementations covering programming fundamentals, OOP and problem solving.
+
+**Java · OOP · DSA**
+
+<a href="https://github.com/prathmesh235/JAVA">
+View Repository →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Quiz App
+
+A simple interactive quiz application built with HTML, CSS and JavaScript with score tracking and answer validation.
+
+**HTML · CSS · JavaScript**
+
+<a href="https://github.com/prathmesh235/Quiz-app-">
+View Project →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 👤 Profile Project
+
+A frontend project created to practice web design, layout and responsive UI development.
+
+**HTML · CSS · JavaScript**
+
+<a href="https://github.com/prathmesh235/Profile_project">
+View Project →
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
+
+### ☕ Programming
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌱 Backend Development
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge)
+
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 AI & Integration
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama%203.2-0467DF?style=for-the-badge)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🧠 Problem Solving
+
+I am continuously improving my problem-solving skills through:
+
+- Data Structures
+- Algorithms
+- Java programming
+- Object-Oriented Programming
+- Coding practice
+- Logical problem solving
+
+---
+
+## 🐍 Contribution Journey
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/prathmesh235/prathmesh235/output/github-contribution-grid-snake.svg"
+    width="90%"
+    alt="Prathmesh Contribution Snake"
+  />
+</p>
+
+<p align="center">
+  <b>🐍 Keep Coding • Keep Learning • Keep Building 🚀</b>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=prathmesh235&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F298199292%3Fu%3D541d68ef6aac7baf0e82339751f71a304978a7a5%26v%3D4" alt="Prathmesh GitHub Highlights" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathmesh235&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh235&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh235&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+</p>
+
+---
+
+## 🎯 Career Goal
+
+> **Become a strong Java Backend Developer and build reliable, scalable and practical software applications.**
+
+My goal is to continuously improve my skills in:
+
+`Java` → `Spring Boot` → `REST APIs` → `Databases` → `DSA` → `AI Integration`
 
 ---
 
@@ -214,22 +260,14 @@ A full-stack hospital management project focused on managing hospital-related op
 
 ---
 
-## 💡 Developer Quote
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
-</p>
-
----
-
-<p align="center">
-  <b>⚡ I Love Tech and Tech Love Me ⚡</b>
+  <b>⚡ Code • Learn • Build • Improve ⚡</b>
 </p>
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile! Happy Coding! 🚀</b>
+  ⭐ Thanks for visiting my profile!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=footer" width="100%" />
+  <sub>Prathmesh Panmand · Java Developer · BCA Student</sub>
 </p>
